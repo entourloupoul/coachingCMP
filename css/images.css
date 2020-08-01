@@ -1,0 +1,31 @@
+.logo-domaine {
+    width:20%;
+    background-color: blue;
+    display:flex;
+    border-color: white;
+    border-style: solid;
+}
+
+.image-box {
+    margin:auto;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-color: red;
+    border-style: solid;
+}
+
+.logo-domaine img {
+    width: 100%;
+}
+
+.domaine-content {
+    display:none;
+}
+.domaine-text {
+    opacity:0;
+}
+
+#vie-logo:hover {
+
+    background-color: green;
+}
